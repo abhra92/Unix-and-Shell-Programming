@@ -1,0 +1,12 @@
+1. What is operating system? 
+2. Explain the features of operating system. 
+3. Explain UNIX operating system.
+4. Explain UNIX architecture with suitable diagram.
+5. What is POSIX? Explain. 
+6. What is UNIX file system? 
+7. Explain parent child relationship with diagram. 
+8. What is home directory? Explain.
+9. What is relative path and absolute path? Explain with an example.
+10. What is system call? Explain with diagram. 
+11. Explain the meaning of the following in UNIX.
+Symbol
